@@ -1,3 +1,9 @@
+---
+# the default layout is 'page'
+icon: fas fa-info-circle
+order: 4
+---
+
 Hello there! I'm Amirali, a passionate software engineer with over two years of hands-on experience in the field. I thrive on making the lives of others easier through the software I create.
 
 My journey in the world of software development began when I found out anyone can create anything you think of with coding on a computer. Since then, I've been immersed in various projects, honing my skills in software design and architecture.
