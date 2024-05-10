@@ -16,7 +16,7 @@ timezone: Asia/Tehran
 
 title: Amirali's Blog # the main title
 
-tagline: Unraveling the Code: Navigating the World of Software Engineering, One Line at a Time. # it will display as the sub-title
+tagline: 'Unraveling the Code: Navigating the World of Software Engineering, One Line at a Time.' # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Insightful musings and practical advice on all things software engineering, from algorithms to architecture. Dive deep into the world of coding with me.
