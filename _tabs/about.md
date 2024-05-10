@@ -12,6 +12,6 @@ Outside of coding, I'm an avid learner, always eager to explore new technologies
 
 This blog is my platform to share insights, experiences, and thoughts on software engineering, technology, and everything in between. Whether you're a fellow developer, a tech enthusiast, or just curious about the world of coding, I hope you find something valuable here.
 
-Feel free to reach out to me at kebritam@proton.me for any inquiries, collaboration opportunities, or just to say hi! I'm always open to connecting with like-minded people and exploring new possibilities.
+Feel free to reach out to me at [kebritam@proton.me](mailto:kebritam@proton.me) for any inquiries, collaboration opportunities, or just to say hi! I'm always open to connecting with like-minded people and exploring new possibilities.
 
 Thank you for visiting!
